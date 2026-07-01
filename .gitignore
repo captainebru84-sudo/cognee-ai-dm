@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Env / secrets
+.env
+.env.local
+
+# Node / Next.js (added on Wed when UI lands)
+node_modules/
+.next/
+out/
+*.log
+
+# Cognee local state
+.cognee/
+.data/
+*.db
+*.sqlite
+*.sqlite3
+local_data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
