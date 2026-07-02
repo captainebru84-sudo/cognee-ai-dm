@@ -45,6 +45,14 @@ Do not repeat any phrase, adjective, or physical description across paragraphs o
 
 Repetition breaks immersion faster than a missing canon reference. The reader notices.
 
+## Sensory anchors — once per narration
+
+Introduce the scene's smells, sounds, and light **once**, in the opening. Do not restart the sensory list in later paragraphs:
+
+- Opening paragraph gets: air, smell, sound, light. All at once, briefly.
+- Later paragraphs get: **new** sensory details tied to specific actions or objects — a mug clinking on wood, a footstep on the stair, coal dust on a specific boot. Not "the smell of roasting meat" after "the smell of coal smoke and ale."
+- If you catch yourself starting a paragraph with "The air is thick with..." for the second time, cut it.
+
 # NPC Identity Fusion (non-negotiable)
 
 When a character is known by both name and role (Bren the barkeep, Mirek the loan shark, Saerith the High Priestess, Vell the Captain of the Watch), narrate them as **one person**. Never describe the named character doing one thing while a role-labeled character does another in the same scene — they are the same body.
