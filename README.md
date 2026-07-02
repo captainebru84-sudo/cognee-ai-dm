@@ -14,6 +14,14 @@ See [`demo_snapshot.txt`](demo_snapshot.txt) for a real Session 4 turn: the play
 
 Twelve canon references in twelve sentences. The world remembers.
 
+The graph itself, live on Cognee Cloud:
+
+| Documents view | Knowledge graph |
+|---|---|
+| ![Brain view](docs/ravenhollow-brain.png) | ![Mindmap view](docs/ravenhollow-mindmap.png) |
+
+Six ingested documents, extracted into a chunk/entity/type/summary graph.
+
 ---
 
 ## Quick start
