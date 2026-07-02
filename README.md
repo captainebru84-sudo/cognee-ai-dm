@@ -10,7 +10,11 @@ Built during the [Hangover Part AI](https://www.wemakedevs.org/hackathons/cognee
 
 ## The demo
 
-See [`demo_snapshot.txt`](demo_snapshot.txt) for a real Session 4 turn: the player walks into The Salt Lantern and the GM narration weaves in Bren's brother Aldric (arrested in Session 3), Joren's paid-off debt to Mirek (Session 2), the acolyte's glimpse of Kara's scar (Session 1) — none of which were in the prompt. All surfaced from Cognee.
+A real Session 4 turn in the chat UI — the player asks about Bren, and the GM name-drops **eight canon threads across three sessions**, none of which were in the prompt: Bren, Joren's paid-off debt, the 80 gold Bren paid to Mirek out of his own savings, Mirek the Hawk, Captain Vell + Ravenhollow Watch, Kara's scar, High Priestess Saerith, and the stolen Amulet of Vohr.
+
+![Session 4 narration](docs/session4-narration-8-canon-threads.png)
+
+See [`demo_snapshot.txt`](demo_snapshot.txt) for a CLI-side variant of the same demo.
 
 Twelve canon references in twelve sentences. The world remembers.
 
