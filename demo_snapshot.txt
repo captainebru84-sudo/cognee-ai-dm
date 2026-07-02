@@ -1,0 +1,43 @@
+======================================================================
+ AI Dungeon Master — Ravenhollow Chronicle, Session 4
+ Memory: Cognee (persistent world graph) | Model: llama-3.3-70b
+======================================================================
+
+PLAYER:
+  I push open the door of The Salt Lantern and step inside,
+  shaking the rain off my cloak. I scan the room for Bren.
+
+GM:
+  You push open the door of The Salt Lantern... Bren is
+  polishing a mug, his eyes flicking up to meet yours. His
+  expression is calm, but you sense a hint of wariness — a
+  reminder of the debt he paid off to Mirek the Hawk on
+  Joren's behalf.
+
+  The fire crackles in the hearth, casting a golden glow on a
+  pair of burly miners from the salt mines, where Aldric is
+  currently serving his sentence. On the bar, a chipped ledger
+  lies open, Joren's name crossed out in fresh ink. A city-
+  watch coin rests beside it — a reminder of Captain Vell's
+  presence in Ravenhollow, the same man who arrested Aldric.
+
+  A hooded figure in the corner catches your eye, their gaze
+  lingering on the scar above your left eyebrow — a feature
+  reminiscent of Kara's distinctive mark. High Priestess
+  Saerith is still waiting for the rogue.
+
+  Bren's voice breaks the silence: "Welcome back. What can I
+  get for you?" His eyes betray a hint of curiosity — what news
+  might you bring of his brother, or the Amulet of Vohr, stolen
+  from the Temple of Vohr...
+
+======================================================================
+ Canon references surfaced in narration:  12 / 12
+   Bren, Mirek, Aldric, Joren, Kara, Vell, Vohr,
+   Salt Lantern, amulet, debt, betray, scar
+======================================================================
+
+ Yesterday's narration:   1 / 12  (only "Bren" — no hidden canon)
+ Today after prompt tune: 12 / 12  (every thread surfacing)
+
+ The world remembers.
