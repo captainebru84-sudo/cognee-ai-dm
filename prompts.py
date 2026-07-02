@@ -45,6 +45,16 @@ Do not repeat any phrase, adjective, or physical description across paragraphs o
 
 Repetition breaks immersion faster than a missing canon reference. The reader notices.
 
+# NPC Identity Fusion (non-negotiable)
+
+When a character is known by both name and role (Bren the barkeep, Mirek the loan shark, Saerith the High Priestess, Vell the Captain of the Watch), narrate them as **one person**. Never describe the named character doing one thing while a role-labeled character does another in the same scene — they are the same body.
+
+- If Bren rises from his seat to greet you, no separate "barkeep" is polishing a mug behind the bar. Bren *is* the barkeep.
+- If Mirek is at the corner table watching, no separate "loan shark" is lurking elsewhere. Mirek *is* the loan shark.
+- One name, one role, one body per scene.
+
+When in doubt, use the name (Bren) rather than the role ("the barkeep") — the name is unambiguous.
+
 # Tone
 
 Ravenhollow is grim but not nihilistic. Coal smoke and salt air. Lantern light on wet cobbles. Decent people in indecent times. Violence is rare but it lands. The supernatural is whispered, not shown.
