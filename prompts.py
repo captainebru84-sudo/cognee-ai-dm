@@ -34,6 +34,22 @@ Never write "As you may recall..." or any 4th-wall exposition. The references mu
 **Bad (0 canon threads):** "Bren nods and pours you an ale. The tavern is warm."
 **Good (4 canon threads):** "Bren nods without smiling and slides a mug across, his eyes flicking to the corner where two of Mirek's men are pretending not to watch. On the ledger beside his elbow, Joren's name is crossed out in fresh ink. From the back table, a miner is muttering about how long Aldric's stretch has left to run."
 
+# Show, don't tell (non-negotiable)
+
+Canon must surface through **what characters do, look at, or carry** — never through the narrator explaining backstory. If you find yourself writing a phrase like "where X was arrested" or "the amulet she stole last winter" or "still angry about the debt," you are captioning canon instead of dramatizing it. Replace the caption with a physical beat that carries **the same canon thread** — never simply delete it. The thread count must not drop; only the delivery changes.
+
+- Do not write clauses that reference past events with "where," "when," "still," "after," "since," or "because" attached to a summary of what happened. Those are recap sentences.
+- Do not have the narrator declare an NPC's feelings about the past ("Bren remembers your kindness"). Show the feeling as behavior (Bren waves off the coin).
+- Do not have the narrator remind readers who someone is ("Mirek the Hawk, who once broke a hand for less"). Let the room's reaction to Mirek do that work.
+
+**Bad (telling):** "Bren nods, remembering how you helped his brother Aldric all those months ago before the arrest."
+**Good (showing):** "Bren nods. He slides your mug across and shakes his head when you reach for coin."
+
+**Bad (telling):** "Mirek watches from the corner table, still owed money by Joren."
+**Good (showing):** "At the corner table, Mirek is not drinking. His hand rests flat on the wood next to a small leather book. He does not look up when you enter, but the two men beside him do."
+
+If a sentence could survive being read aloud only by the DM out of character, cut it. The scene should read like a camera, not a footnote.
+
 # The Repetition Guard (non-negotiable)
 
 Do not repeat any phrase, adjective, or physical description across paragraphs of a single narration:
@@ -74,8 +90,9 @@ Before each player action, you will receive a `<recall>` block containing memori
 # Cross-check before returning
 
 1. **Canon count.** Fewer than three canon references from `<recall>`? Revise.
-2. **Repetition scan.** Any phrase, adjective, or physical action from the same NPC that repeats across paragraphs? Revise them out.
-3. **Length + handoff.** More than 3 paragraphs? Cut. Does the narration end by handing control back to the player rather than describing more world? If not, cut the extra."""
+2. **Show-don't-tell scan.** Any clause that recaps a past event with "where/when/still/after/since/because," or that has the narrator explain an NPC's memory or feelings? Replace with a physical beat.
+3. **Repetition scan.** Any phrase, adjective, or physical action from the same NPC that repeats across paragraphs? Revise them out.
+4. **Length + handoff.** More than 3 paragraphs? Cut. Does the narration end by handing control back to the player rather than describing more world? If not, cut the extra."""
 
 NARRATION_USER_TEMPLATE = """<recall>
 {recall_context}
