@@ -8,6 +8,14 @@ Built during the [Hangover Part AI](https://www.wemakedevs.org/hackathons/cognee
 
 ---
 
+## Watch the demo · Read the writeup
+
+- **Demo video:** https://youtu.be/emnUvx4V8as
+- **Blog:** [How I built an AI Dungeon Master that actually remembers what you did three sessions ago](https://dev.to/captainebru84sudo/how-i-built-an-ai-dungeon-master-that-actually-remembers-what-you-did-three-sessions-ago-1kec)
+- **Threads:** [Jul 2 pitch](https://x.com/i/status/2072738662022848729) · [Jul 5 submission](https://x.com/i/status/2073751597587304788)
+
+---
+
 ## The demo
 
 A real Session 4 turn in the chat UI — the player asks about Bren, and the GM name-drops **eight canon threads across three sessions**, none of which were in the prompt: Bren, Joren's paid-off debt, the 80 gold Bren paid to Mirek out of his own savings, Mirek the Hawk, Captain Vell + Ravenhollow Watch, Kara's scar, High Priestess Saerith, and the stolen Amulet of Vohr.
